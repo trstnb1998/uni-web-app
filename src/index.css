@@ -48,7 +48,6 @@ a {
 }
 
 /* ------------ media query ------------ */
-
 @media (max-width: 1200px) {
   .container {
     padding-left: 5%;
